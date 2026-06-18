@@ -31,10 +31,11 @@ This repository documents my completion of the Data Labeling job simulation on F
 - Privacy and ethical handling of data is critical  
 - Collaboration improves dataset quality  
 
-## 📁 Repository Structure
+### Repository Structure
 
-📂 forage-data-labeling-simulation  
- ├── README.md  
- ├── notes.md  
- └── certificate.pdf 
+```bash
+
+├── README.md
+└── Forage Certification.pdf
  
+
