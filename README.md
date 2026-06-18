@@ -36,4 +36,5 @@ This repository documents my completion of the Data Labeling job simulation on F
 📂 forage-data-labeling-simulation  
  ├── README.md  
  ├── notes.md  
- └── certificate.pdf (optional)
+ └── certificate.pdf 
+ 
