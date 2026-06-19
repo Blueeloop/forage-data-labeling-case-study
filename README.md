@@ -1,9 +1,9 @@
 # 📊 Forage Data Labeling Simulation
 
-## 🧠 Overview
+##  Overview
 This repository documents my completion of the Data Labeling job simulation on Forage, where I worked as a Data Labeling Analyst for a hypothetical AI company. The project focused on reviewing and annotating real-world-style customer support messages to support AI model training.
 
-## 🛠️ Key Tasks Completed
+##  Key Tasks Completed
 
 - Completed a job simulation as a Data Labeling Analyst for a hypothetical AI company  
 - Reviewed and labeled customer support messages for Intent classification, Sentiment analysis, and PII detection  
@@ -13,7 +13,7 @@ This repository documents my completion of the Data Labeling job simulation on F
 - Strengthened ethical handling of sensitive information (PII)  
 - Gained experience in human-AI collaboration for machine learning systems  
 
-## 📚 Skills Gained
+##  Skills Gained
 
 - Data Labeling & Annotation  
 - Intent Classification  
@@ -23,7 +23,7 @@ This repository documents my completion of the Data Labeling job simulation on F
 - Human-in-the-loop AI Systems  
 - Ethical AI Practices  
 
-## 💡 What I Learned
+## What I Learned
 
 - Clear labeling rules improve AI model performance  
 - Real-world data is often ambiguous and requires judgment  
